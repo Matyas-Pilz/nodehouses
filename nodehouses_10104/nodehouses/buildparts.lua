@@ -1,0 +1,13 @@
+minetest.register_craftitem("nodehouses:buildpart1", {
+    description = "Building Part 1",
+    inventory_image = "buildpart1_inv.png",  -- Ikona itemu
+    stack_max = 99, -- Maximální poèet itemù v jednom stacku
+    groups = {not_in_creative_inventory = 0}, -- Skrytí z creative inventory, protože sám o sobì k nièemu není
+})
+
+minetest.register_craftitem("nodehouses:buildpart2", {
+    description = "Building Part 2",
+    inventory_image = "buildpart2_inv.png",  -- Ikona itemu
+    stack_max = 99, -- Maximální poèet itemù v jednom stacku
+    groups = {not_in_creative_inventory = 0}, -- Skrytí z creative inventory, protože sám o sobì k nièemu není
+})

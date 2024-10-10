@@ -1,0 +1,5 @@
+1.01.01 - 10101 | 2024, october 10 | New mod, 8 houses, screwdriver wallmounted, buildpart without inventory icons
+1.01.02 - 10102 | 2024, october 10 | screwdriver facedir (but only 4 sides), buildpart from now with inventory icons, created changes.txt
+1.01.03 - 10103 | 2024, october 10 | repaired the settings on House 3 to screwdriver facedir, repaired order of textures of house sides
+1.01.04 - 10104 | 2024, october 10 | repaired the settings of textures on all houses from 1.01.03
+Publishing of mod
