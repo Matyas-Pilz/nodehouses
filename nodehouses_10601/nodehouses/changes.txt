@@ -1,0 +1,17 @@
+1.01.01 - 10101 | 2024, october 10 | New mod, 8 houses, screwdriver wallmounted, buildpart without inventory icons
+1.01.02 - 10102 | 2024, october 10 | screwdriver facedir (but only 4 sides), buildpart from now with inventory icons, created changes.txt
+1.01.03 - 10103 | 2024, october 10 | repaired the settings on House 3 to screwdriver facedir, repaired order of textures of house sides
+1.01.04 - 10104 | 2024, october 10 | repaired the settings of textures on all houses from 1.01.03
+Publishing of mod
+1.02.01 - 10201 | 2024, october 11 | added 3 new house nodes (House 9 and Upper block 1 & 2 for higher houses), 
+					created uppernodes.lua, added Building part 3
+1.02.02 - 10202 | 2024, october 11 | chimney in texture "house002_top" is now on right side
+1.03.01 - 10301 | 2024, october 11 | added 3 lower houses and 2 lower uppernodes
+1.03.02 - 10302 | 2024, october 11 | repaired code mistakes - 2 lower houses
+1.04.01 - 10401 | 2024, october 11 | added new house (House 51) with 64 px texture, repaired screwdriver
+1.05.01 - 10501 | 2024, october 13 | added 3 new houses (House 10 with 16px texture; House 11 & House 12 with 64 px textures,
+					repaintable) and added the repainter tool
+1.05.02 - 10502 | 2024, october 13 | unsuccessfull attempt to repair repainter and repaintable houses
+1.05.03 - 10503 | 2024, october 13 | reaction for unsuccessfull attempt to repair repainter - added new houses
+					(colors and materials of houses 11 and 12) - 32 new houses (without crafting)
+1.06.01 - 10601 | 2024, october 14 | added new 3 taller houses (without crafting)
