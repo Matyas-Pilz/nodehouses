@@ -1,0 +1,31 @@
+1.01.01 - 10101 | 2024, october 10 | New mod, 8 houses, screwdriver wallmounted, buildpart without inventory icons
+1.01.02 - 10102 | 2024, october 10 | screwdriver facedir (but only 4 sides), buildpart from now with inventory icons, created changes.txt
+1.01.03 - 10103 | 2024, october 10 | repaired the settings on House 3 to screwdriver facedir, repaired order of textures of house sides
+1.01.04 - 10104 | 2024, october 10 | repaired the settings of textures on all houses from 1.01.03
+Publishing of mod
+1.02.01 - 10201 | 2024, october 11 | added 3 new house nodes (House 9 and Upper block 1 & 2 for higher houses), 
+					created uppernodes.lua, added Building part 3
+1.02.02 - 10202 | 2024, october 11 | chimney in texture "house002_top" is now on right side
+1.03.01 - 10301 | 2024, october 11 | added 3 lower houses and 2 lower uppernodes
+1.03.02 - 10302 | 2024, october 11 | repaired code mistakes - 2 lower houses
+1.04.01 - 10401 | 2024, october 11 | added new house (House 51) with 64 px texture, repaired screwdriver
+1.05.01 - 10501 | 2024, october 13 | added 3 new houses (House 10 with 16px texture; House 11 & House 12 with 64 px textures,
+					repaintable) and added the repainter tool
+1.05.02 - 10502 | 2024, october 13 | unsuccessfull attempt to repair repainter and repaintable houses
+1.05.03 - 10503 | 2024, october 13 | reaction for unsuccessfull attempt to repair repainter - added new houses
+					(colors and materials of houses 11 and 12) - 32 new houses (without crafting)
+1.06.01 - 10601 | 2024, october 14 | added new 3 taller houses (without crafting)
+1.07.01 - 10701 | 2024, october 27 | added roof nodes and narrower houses
+1.07.02 - 10702 | 2024, october 28 | repaired mistakes
+1.07.03 - 10703 | 2024, october 28 | added Bata textures from buildings of Tomas & Jan Antonin Bata from Zlin
+1.07.04 - 10704 | 2024, october 28 | changed encoding of all files from ANSI to UTF-8 (no BOM)
+1.07.05 - 10705 | 2024, october 28 | added more Bata textures from buildings of Tomas & Jan Antonin Bata from Zlin
+1.08.01 - 10801 | 2024, october 28 | added nodes from Bata buildings of Tomas & Jan Antonin Bata from Zlin
+1.08.02 - 10802 | 2024, october 28 | edited init.lua for adding bata.lua (repair not successful)
+1.08.03 - 10803 | 2024, october 28 | edited bata.lua (repairing problem with registration bata nodes) (repair not successful)
+1.08.04 - 10804 | 2024, october 28 | edited bata.lua (repairing problem with registration bata nodes) (repair not successful but mod running)
+1.08.05 - 10805 | 2024, october 28 | edited bata.lua (repairing problem with registration bata nodes) (repair successful, but some bugs are)
+1.08.06 - 10806 | 2024, october 28 | edited bata.lua (repairing problem with bata node "stairs") (last Bata nodes bugs continuos)
+1.08.07 - 10807 | 2024, october 28 | edited bata.lua (repairing problem with bata node "stairs") (last Bata nodes bug continuos, one bug repaired)
+1.08.08 - 10808 | 2024, october 28 | edited bata.lua (repairing problem with bata node "stairs") (all Bata bugs repaired)
+Publishing the Bata buildings update
